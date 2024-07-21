@@ -13,15 +13,15 @@ Education
 ======
 
 * Ph.D. in Statistics, [Iowa State University](https://www.iastate.edu/), 2021 - Present.
-* M.Stat. in Statistics, [Indian Statistical Institute](https://www.isical.ac.in/), 2018 - 2020.
-* B.S. in Statistics, [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/), 2015 - 2018.
+* M.Stat. (Specialisation: Computational Statistics), [Indian Statistical Institute](https://www.isical.ac.in/), 2018 - 2020.
+* B.Sc. (Hons.) Statistics, [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/), 2015 - 2018.
 
 Experience
 ======
 
 * Summer 2024 - Present : Statistics Summer Intern, Pfizer Inc., PA, USA.
   * Collaborating with drug developers in Inflammation and Immunology (I&I) group under the Global Biometric and Data Management Division (GBDM).
-  * Developing a novel method to improve early phase clinical trials by borrowing recent advancements from reinforcement learning and causal inference.
+  * Developing a novel method to improve early phase clinical trials by borrowing strength from reinforcement learning and causal inference.
 
 * Summer 2023 - Present : Graduate Research Assistant, Iowa State University, IA, USA.
   * Contributing to an NIH-NCI-funded project titled "Using Natural Language Processing and Crowd-sourcing to Monitor and Evaluate Public Information and Communication Disparities About Colon Cancer."
@@ -44,6 +44,9 @@ Awards
 
 * Fall 2022 : George W. Snedecor Award, Department of Statistics, Iowa State University.
   * Awarded annually to outstanding student(s) based on performance on the Ph.D. preliminary written exam and in statistics courses.
+
+* Spring 2020: Graduated M.Stat with Distinction, Indian Statistical Institute.
+  * Awarded the degree with distinction by maintaining a good academic standing and securing more than 75% of total marks possible in all courses combined.
 
 * Spring 2018 : Dr. Mrinal Kanti Basu Memorial Prize, Ramakrishna Mission Residential College (Autonomous), Narendrapur.
   * Awarded annually for securing the first position in B.Sc.(Hons.) Statistics program.
