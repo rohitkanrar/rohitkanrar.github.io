@@ -34,3 +34,19 @@ Experience
   * Added machine learning-based improvements in API-based solutions such as face detection and matching across IDs, automatic ID number masking, and extracting key fields from balance sheets with optical character recognition (OCR) and basic natural language processing (NLP).
   * Worked on NLP-based tasks such as news sentiment analysis, named entity recognition, etc.
   * Improved feature extractions and analysis to improve the loan disbursement recommendation engine.
+
+
+Awards
+=====
+
+* Spring 2023 : Teaching Excellence Award, Graduate College, Iowa State University.
+  * Awarded annually to the top 10% of Graduate student instructors at ISU to recognize and encourage outstanding teaching achievement.
+
+* Fall 2023 : George W. Snedecor Award, Department of Statistics, Iowa State University.
+  * Awarded annually to outstanding student(s) based on performance on the Ph.D. preliminary written exam and in statistics courses.
+
+* Spring 2018 : Dr. Mrinal Kanti Basu Memorial Prize, Ramakrishna Mission Residential College (Autonomous), Narendrapur.
+  * Awarded annually for securing the first position in B.Sc.(Hons.) Statistics program.
+
+* Fall 2015 : DST-Inspire Scholarship 2015,  Department of Science & Technology, Government of India.
+  * Awarded to the top one percentile of students pursuing an undergraduate degree in basic sciences from Indian institutes.
