@@ -42,7 +42,7 @@ Awards
 * Spring 2023 : Teaching Excellence Award, Graduate College, Iowa State University.
   * Awarded annually to the top 10% of Graduate student instructors at ISU to recognize and encourage outstanding teaching achievement.
 
-* Fall 2023 : George W. Snedecor Award, Department of Statistics, Iowa State University.
+* Fall 2022 : George W. Snedecor Award, Department of Statistics, Iowa State University.
   * Awarded annually to outstanding student(s) based on performance on the Ph.D. preliminary written exam and in statistics courses.
 
 * Spring 2018 : Dr. Mrinal Kanti Basu Memorial Prize, Ramakrishna Mission Residential College (Autonomous), Narendrapur.
