@@ -1,16 +1,15 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+I am fortunate to be advised by [Professor Zhanrui Cai](https://zhanruicai.github.io/), [Professor Chunlin Li](https://www.stat.iastate.edu/people/chunlin-li) during my doctoral studies, and [Professor Kiranmoy Das](https://bimsa.net:10000/people/das/) during my masters studies. I also thank the [Dept. of Statistics at ISU](https://www.stat.iastate.edu/) and [Professor Dan Nettleton](https://dnett.github.io/) for providing me with the opportunity to contribute to one of his research projects and funding my doctoral research. 
 
-{% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+## Preprints
+
+- **Kanrar, R.**, Jiang, F., Cai, Z. (2024) [Model-free Change-point Detection Using Modern Classifiers](https://arxiv.org/pdf/2404.06995).
+
+
