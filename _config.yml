@@ -23,12 +23,12 @@ author:
   # Biographic information
   avatar           : "dp.jpg"
   name             : "Rohit Kanrar"
-  pronouns         : # example: "she/her"  
+  pronouns         : "he/him"
   bio              : "Graduate Student, Statistics"
   location         : "Ames, IA, USA"
   employer         : "Iowa State University"
   uri              : # URL
-  email            : "rohitk@iastate.edu" 
+  email            : "rohitk@iastate.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : rohitkanrar
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
