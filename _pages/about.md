@@ -14,3 +14,5 @@ I enjoy working on problems with real-life applications. Broadly my research int
 Besides research, I like to cook, work out, listen to music, and follow European Football (especially [Manchester United](https://www.manutd.com/)). 
 
 Thank you for visiting my profile!
+
+Email: rohitk [at] iastate.edu
