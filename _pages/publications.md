@@ -14,6 +14,6 @@ High-dimensional inference, statistical machine learning, causal inference, gene
 
 ## Preprints
 
-- **Kanrar, R.**, Jiang, F., Cai, Z. (2024) [Model-free Change-point Detection Using Modern Classifiers](https://arxiv.org/pdf/2404.06995).
+- **Kanrar, R.**, Jiang, F., Cai, Z. (2024) [Model-free Change-point Detection Using Modern Classifiers](https://arxiv.org/abs/2404.06995).
 
 
