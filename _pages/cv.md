@@ -21,7 +21,7 @@ Experience
 
 * Summer 2024 - Present : Statistics Summer Intern, Pfizer Inc., PA, USA.
   * Collaborating with drug developers in Inflammation and Immunology (I&I) group under the Global Biometric and Data Management Division (GBDM).
-  * Developing a novel method to improve early phase clinical trials by borrowing strength from reinforcement learning and causal inference.
+  * Conducting a methodological research by borrowing recent advancements from reinforcement learning and causal inference.
 
 * Summer 2023 - Present : Graduate Research Assistant, Iowa State University, IA, USA.
   * Contributing to an NIH-NCI-funded project titled "Using Natural Language Processing and Crowd-sourcing to Monitor and Evaluate Public Information and Communication Disparities About Colon Cancer."
