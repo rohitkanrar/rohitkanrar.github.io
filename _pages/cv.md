@@ -12,16 +12,16 @@ redirect_from:
 Education
 ======
 
-* Ph.D. in Statistics, [Iowa State University](https://www.iastate.edu/), 2021 - Present.
+* Ph.D. in Statistics, [Iowa State University](https://www.iastate.edu/), 2021 - 2026 (Expected).
 * M.Stat. (Specialisation: Computational Statistics), [Indian Statistical Institute](https://www.isical.ac.in/), 2018 - 2020.
 * B.Sc. (Hons.) Statistics, [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/), 2015 - 2018.
 
 Experience
 ======
 
-* Summer 2024 - Present : Statistics Summer Intern, Pfizer Inc., PA, USA.
-  * Collaborating with drug developers in Inflammation and Immunology (I&I) group under the Global Biometric and Data Management Division (GBDM).
-  * Conducting a methodological research by borrowing recent advancements from reinforcement learning and causal inference.
+* Summer 2024 : Statistics Summer Intern, Pfizer Inc., PA, USA.
+  * Collaborated with drug developers in Inflammation and Immunology (I&I) group under the Global Biometric and Data Management Division (GBDM).
+  * Conducted a methodological research by borrowing recent advancements from reinforcement learning and causal inference.
 
 * Summer 2023 - Present : Graduate Research Assistant, Iowa State University, IA, USA.
   * Contributing to an NIH-NCI-funded project titled "Using Natural Language Processing and Crowd-sourcing to Monitor and Evaluate Public Information and Communication Disparities About Colon Cancer."
@@ -53,3 +53,6 @@ Awards
 
 * Fall 2015 : DST-Inspire Scholarship 2015,  Department of Science & Technology, Government of India.
   * Awarded to the top one percentile of students pursuing an undergraduate degree in basic sciences from Indian institutes.
+
+
+Last Updated: August 20, 2024
