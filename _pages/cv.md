@@ -13,7 +13,7 @@ Education
 ======
 
 * Ph.D. in Statistics, [Iowa State University](https://www.iastate.edu/), 2021 - 2026 (Expected).
-* M.Stat. (Specialisation: Computational Statistics), [Indian Statistical Institute](https://www.isical.ac.in/), 2018 - 2020.
+* M.Stat., [Indian Statistical Institute](https://www.isical.ac.in/), 2018 - 2020.
 * B.Sc. (Hons.) Statistics, [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/), 2015 - 2018.
 
 Experience
