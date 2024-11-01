@@ -19,13 +19,14 @@ Education
 Experience
 ======
 
+* Summer 2023 - Present : Graduate Research Assistant, Iowa State University, IA, USA.
+  * Contributing to an NIH-NCI-funded project titled "Using Natural Language Processing and Crowd-sourcing to Monitor and Evaluate Public Information and Communication Disp>
+  * Helping the group with statistical analysis using tools from bayesian inference and traditional statistics.
+
 * Summer 2024 : Statistics Summer Intern, Pfizer Inc., PA, USA.
   * Collaborated with drug developers in Inflammation and Immunology (I&I) group under the Global Biometric and Data Management Division (GBDM).
+  * Learned foundational concepts of clinical trials from domain experts.
   * Conducted a methodological research by borrowing recent advancements from reinforcement learning and causal inference.
-
-* Summer 2023 - Present : Graduate Research Assistant, Iowa State University, IA, USA.
-  * Contributing to an NIH-NCI-funded project titled "Using Natural Language Processing and Crowd-sourcing to Monitor and Evaluate Public Information and Communication Disparities About Colon Cancer."
-  * Helping the group with statistical analysis using tools from bayesian inference and statistical machine learning.
 
 * Fall 2021 - Spring 2023 : Graduate Teaching Assistant, Iowa State University, IA, USA.
   * Organized weekly lectures and lab sessions independently as an instructor to teach introductory statistics courses to undergraduate students of business and engineering majors with class sizes ranging between 50 and 80.
@@ -55,4 +56,4 @@ Awards
   * Awarded to the top one percentile of students pursuing an undergraduate degree in basic sciences from Indian institutes.
 
 
-Last Updated: August 20, 2024
+Last Updated: November 01, 2024
