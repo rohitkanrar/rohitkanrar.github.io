@@ -20,7 +20,7 @@ Experience
 ======
 
 * Summer 2023 - Present : Graduate Research Assistant, Iowa State University, IA, USA.
-  * Contributing to an NIH-NCI-funded project titled "Using Natural Language Processing and Crowd-sourcing to Monitor and Evaluate Public Information and Communication Disp>
+  * Contributing to an NIH-NCI-funded project titled "Using Natural Language Processing and Crowd-sourcing to Monitor and Evaluate Public Information and Communication Disparities About Colon Cancer."
   * Helping the group with statistical analysis using tools from bayesian inference and traditional statistics.
 
 * Summer 2024 : Statistics Summer Intern, Pfizer Inc., PA, USA.
