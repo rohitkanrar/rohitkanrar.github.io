@@ -11,7 +11,7 @@ Hello, I am a fourth year Ph.D. student in the [Statistics department](https://w
 
 I enjoy working on problems with real-life applications. Statistics is my passion and I like to learn new concepts.
 
-Besides research, I like to cook, work out, meditate through sunrise yoga, listen to music, and follow European Football (especially [Manchester United](https://www.manutd.com/)). 
+Besides research, I like to cook, work out, meditate through [sunrise yoga](https://cyclonehealth.iastate.edu/fitness/class-schedule), listen to music, and follow European Football (especially [Manchester United](https://www.manutd.com/)). 
 
 Thank you for visiting my profile!
 
