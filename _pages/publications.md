@@ -11,8 +11,6 @@ author_profile: true
 - **Kanrar, R.**, Jiang, F., Cai, Z. (2024+) [Model-free Change-point Detection Using Modern Classifiers](https://arxiv.org/abs/2404.06995).
 
 
-Currently, I am working on problems related to (contextual) bandits and causal inference. I am also exploring more statistical problems in reinforcement learning.
-
 ## Research Interests:
 Statistical machine learning, Causal inference, Reinforcement learning, Change Point Detection, Genetics and related areas.
 
