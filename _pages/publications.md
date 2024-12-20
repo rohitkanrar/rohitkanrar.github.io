@@ -16,6 +16,6 @@ Statistical machine learning, Causal inference, Reinforcement learning, Change P
 
 
 ## Acknowledgements:
-I am fortunate to be co-advised by Professor [Zhanrui Cai](https://zhanruicai.github.io/), Professor [Chunlin Li](https://www.stat.iastate.edu/people/chunlin-li) and Professor [Dan Nettleton](https://dnett.github.io/) during my doctoral education. I also thank Professor [Kiranmoy Das](https://www.bimsa.cn/detail/das.html) for his guidance during my masters education.
+I am fortunate to be co-advised by Professor [Dan Nettleton](https://dnett.github.io/), Professor [Chunlin Li](https://www.stat.iastate.edu/people/chunlin-li) and Professor [Zhanrui Cai](https://zhanruicai.github.io/) during my doctoral education. I also thank Professor [Kiranmoy Das](https://www.bimsa.cn/detail/das.html) for his guidance during my masters education.
 
 
