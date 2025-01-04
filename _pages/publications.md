@@ -12,8 +12,8 @@ author_profile: true
 
 
 ## Research Interests:
-Application Areas: Health Communication, Health Equity, Community Health, Clinical Trials, Genetics and Genomics, ...
-Theory and Methods: Statistical machine learning, Causal inference, Reinforcement learning, Change Point Detection, Statistical Genetics and related areas.
+**Application Areas**: Health Communication, Health Equity, Community Health, Clinical Trials, Genetics and Genomics, ...
+**Theory and Methods**: Statistical machine learning, Causal inference, Reinforcement learning, Change Point Detection, Statistical Genetics and related areas.
 
 
 ## Acknowledgements:
