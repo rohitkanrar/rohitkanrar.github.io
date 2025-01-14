@@ -8,7 +8,7 @@ author_profile: true
 
 ## Preprint:
 
-- **Kanrar, R.**, Jiang, F., Cai, Z. (2024+) [Model-free Change-point Detection Using Modern Classifiers](https://arxiv.org/abs/2404.06995).
+- **Kanrar, R.**, Jiang, F., Cai, Z. (2024+) Model-free Change-point Detection Using Modern Classifiers. {[arXiv](https://arxiv.org/abs/2404.06995)/[Github](https://github.com/rohitkanrar/changeAUC)}.
 
 
 ## Research Interests:
