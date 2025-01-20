@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* Ph.D. in Statistics, [Iowa State University](https://www.iastate.edu/), 2021 - 2026 (Expected).
+* Ph.D. in Statistics, [Iowa State University](https://www.iastate.edu/), 2021 - Present.
 * M.Stat., [Indian Statistical Institute](https://www.isical.ac.in/), 2018 - 2020.
 * B.Sc. (Hons.) Statistics, [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/), 2015 - 2018.
 
@@ -22,12 +22,12 @@ Experience
 * Summer 2023 - Present : Graduate Research Assistant, Iowa State University, IA, USA.
   * Contributing to an NIH-NCI-funded project titled "Using Natural Language Processing and Crowd-sourcing to Monitor and Evaluate Public Information and Communication Disparities About Colon Cancer."
   * Helping the group with statistical analysis using tools from bayesian inference and traditional statistics.
-  * Devoloping a novel statistical learning methodology to analyze the complex dataset generated from the study by borrowing classical concepts in Linear Models and Bayesian Inference. 
+  * Devoloping a methodology to analyze the complex dataset generated from the study by borrowing classical concepts in Linear Models and Bayesian Inference. 
 
 * Summer 2024 : Statistics Summer Intern, Pfizer Inc., PA, USA.
   * Collaborated with drug developers in Inflammation and Immunology (I&I) group under the Global Biometric and Data Management Division (GBDM).
   * Learned foundational concepts of clinical trials from domain experts.
-  * Conducted a methodological research by borrowing recent advancements from reinforcement learning and causal inference.
+  * Conducted a methodological research by borrowing recent advancements from reinforcement learning and causal inference. The manuscript is under preparation.
 
 * Fall 2021 - Spring 2023 : Graduate Teaching Assistant, Iowa State University, IA, USA.
   * Organized weekly lectures and lab sessions independently as an instructor to teach introductory statistics courses to undergraduate students of business and engineering majors with class sizes ranging between 50 and 80.
@@ -58,4 +58,4 @@ Awards
   * Awarded to the top one percentile of students pursuing an undergraduate degree in basic sciences from Indian institutes.
 
 
-Last Updated: January 04, 2025
+Last Updated: January 20, 2025
