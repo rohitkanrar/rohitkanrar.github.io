@@ -9,6 +9,7 @@ author_profile: true
 ## Preprint:
 
 - **Kanrar, R.**, Jiang, F., Cai, Z. (2024+) Model-free Change-point Detection using AUC of a Classifiers. {[arXiv](https://arxiv.org/abs/2404.06995)/[Github](https://github.com/rohitkanrar/changeAUC)}.
+- **Kanrar, R.**, Li, C., Ghodsi, Z., Gamalo, M. (2025+). Risk-inclusive Contextual Bandits for Early Phase Clinical Trials. {[Github](https://github.com/rohitkanrar/RiTS)}
 
 
 ## Research Interests:
