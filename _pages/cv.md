@@ -10,4 +10,5 @@ redirect_from:
 {% include base_path %}
 
 
+Full CV is available upon request. Please send me an email at rohitk [at] iastate.edu. 
 
