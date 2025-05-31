@@ -7,12 +7,25 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I am a fourth year Ph.D. student in the [Statistics department](https://www.stat.iastate.edu/) at [Iowa State University](https://www.iastate.edu/).
+## Brief Bio
+I am a current Ph.D. candidate in the [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), where I am fortunate to be advised by Professor [Dan Nettleton](https://dnett.github.io/). I am also grateful to be working with Professor [Chunlin Li](https://www.stat.iastate.edu/people/chunlin-li) and Professor [Zhanrui Cai](https://zhanruicai.github.io/) on problems in causal inference and machine learning. 
 
-I enjoy working on problems with real-life applications. Statistics is my passion and I like to learn new concepts.
 
-Besides research, I like to cook, work out, meditate through [sunrise yoga](https://cyclonehealth.iastate.edu/fitness/class-schedule), listen to music, and follow European Football (especially [Manchester United](https://www.manutd.com/)). 
+## Research Interests
+**Application Areas**: Health Communication, Public Health, Clinical Trial, Sports Analytics. \\
+**Theory and Methods**: Sequential Learning and Inference, Causal Inference, Preference Learning, Predictive Inference. \\
 
-Thank you for visiting my profile!
+## Experience
+* 2023 - Present : Graduate Research Assistant, Iowa State University, IA, USA.
+* 2024 : Statistics Summer Intern, Pfizer Inc., PA, USA.
+* 2021 - 2023 : Graduate Teaching Assistant, Iowa State University, IA, USA.
+* 2020 - 2021 : Data Scientist, Decimal Technologies Pvt. Ltd., Gurgaon, India.
+
+## Education
+* Ph.D. in Statistics, [Iowa State University](https://www.iastate.edu/), 2021 - 2026 (Expected).
+* M.Stat., [Indian Statistical Institute](https://www.isical.ac.in/), 2018 - 2020.
+* B.Sc. (Hons.) Statistics, [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/), 2015 - 2018.
+
 
 Email: rohitk [at] iastate.edu
+
