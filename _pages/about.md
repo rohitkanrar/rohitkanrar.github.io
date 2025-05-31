@@ -14,10 +14,10 @@ I am a current Ph.D. candidate in the [Department of Statistics](https://www.sta
 * **Application Areas**: Health Communication, Public Health, Clinical Trial, Sports Analytics. 
 * **Theory and Methods**: Sequential Learning and Inference, Causal Inference, Preference Learning, Predictive Inference.
 
-## Experience
-* 2023 - Present : Graduate Research Assistant, Iowa State University, IA, USA.
-* 2024 (Summer) : Statistics Intern, Pfizer Inc., PA, USA.
-* 2021 - 2023 : Graduate Teaching Assistant, Iowa State University, IA, USA.
+## Experiences
+* 2023 - Present : Research Assistant, Iowa State University, IA, USA.
+* 2024 (Summer) : Statistics Intern, Pfizer, PA, USA.
+* 2021 - 2023 : Teaching Assistant, Iowa State University, IA, USA.
 * 2020 - 2021 : Data Scientist, Decimal Technologies Pvt. Ltd., Gurgaon, India.
 
 ## Education
