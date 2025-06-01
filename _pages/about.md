@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Brief Bio
+## About Me
 I am a current Ph.D. candidate in the [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), where I am fortunate to be advised by Professor [Dan Nettleton](https://dnett.github.io/). I'm also grateful to be working with Professor [Chunlin Li](https://www.stat.iastate.edu/people/chunlin-li) and Professor [Zhanrui Cai](https://zhanruicai.github.io/) on problems in causal inference and machine learning.
 
 ## Research Interests
@@ -16,9 +16,9 @@ I am a current Ph.D. candidate in the [Department of Statistics](https://www.sta
 
 ## Experiences
 * 2023 - Present : Research Assistant, Iowa State University, IA, USA.
-* 2024 (Summer) : Statistics Intern, Pfizer, PA, USA.
+* 2024 (Summer) : Statistics Intern, Pfizer, Collegeville, PA, USA.
 * 2021 - 2023 : Teaching Assistant, Iowa State University, IA, USA.
-* 2020 - 2021 : Data Scientist, Decimal Technologies Pvt. Ltd., Gurgaon, India.
+* 2020 - 2021 : Data Scientist, Decimal Technologies Pvt. Ltd., Gurgaon, Haryana, India.
 
 ## Education
 * 2021 - 2026 (Expected) : Ph.D. in Statistics, [Iowa State University](https://www.iastate.edu/).
