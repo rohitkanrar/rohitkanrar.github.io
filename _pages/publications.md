@@ -8,9 +8,9 @@ author_profile: true
 
 ## Preprints:
 
-- **Kanrar, R.**, Li, C., Ghodsi, Z., Gamalo, M. (2025+). Risk-inclusive Contextual Bandits for Early Phase Clinical Trials. _Invited Revision, Biometrics_ {arXiv/[Github](https://github.com/rohitkanrar/RiTS)}
-- King, A., Liao, Y., Chen, T., **Kanrar, R.**, Chunara, R., Margolin, D., Nettleton, D., Niederdeppe, J. (2024+) Testing the effects of segmented crowdsource-selected messages to improve intentions to follow colorectal cancer screening recommendations: Study protocol for a randomized controlled trial. _Submitted, BMC Public Health_
-- **Kanrar, R.**, Jiang, F., Cai, Z. (2024+) Model-free Change-point Detection using AUC of a Classifiers. _R&R, Journal of Machine Learning Research _ {[arXiv](https://arxiv.org/abs/2404.06995)/[Github](https://github.com/rohitkanrar/changeAUC)}.
+- **Kanrar, R.**, Li, C., Ghodsi, Z., Gamalo, M. (2025+). Risk-inclusive Contextual Bandits for Early Phase Clinical Trials. _Revision invited, Biometrics_ {arXiv/[Github](https://github.com/rohitkanrar/RiTS)}.
+- King, A., Liao, Y., Chen, T., **Kanrar, R.**, Chunara, R., Margolin, D., Nettleton, D., Niederdeppe, J. (2024+) Testing the effects of segmented crowdsource-selected messages to improve intentions to follow colorectal cancer screening recommendations: Study protocol for a randomized controlled trial. _Submitted, BMC Public Health_.
+- **Kanrar, R.**, Jiang, F., Cai, Z. (2024+) Model-free Change-point Detection using AUC of a Classifiers. _R &amp; R, Journal of Machine Learning Research_ {[arXiv](https://arxiv.org/abs/2404.06995)/[Github](https://github.com/rohitkanrar/changeAUC)}.
 
 
 ## Acknowledgements:
