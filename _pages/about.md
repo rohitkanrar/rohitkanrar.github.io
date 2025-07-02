@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## About Me
-I am a Ph.D. candidate in the [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), where I am fortunate to be advised by Professor [Dan Nettleton](https://dnett.github.io/). I'm also grateful to be working with Professor [Chunlin Li](https://www.stat.iastate.edu/people/chunlin-li) and Professor [Zhanrui Cai](https://zhanruicai.github.io/) on problems in causal inference and machine learning.
+I am a Ph.D. candidate in the [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), where I am fortunate to be advised by Professor [Dan Nettleton](https://dnett.github.io/). I'm also grateful to have the opportunity to work with Professor [Chunlin Li](https://www.stat.iastate.edu/people/chunlin-li) and Professor [Zhanrui Cai](https://zhanruicai.github.io/) on problems in causal inference and machine learning.
 
 ## Research Interests
 * **Theory and Methods**: Online Learning and Inference, Causal Inference, Preference Learning, Predictive Inference.
