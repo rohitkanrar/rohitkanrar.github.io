@@ -13,7 +13,7 @@ author_profile: true
 
 ## Publication:
 
-- **Kanrar, R.**, Jiang, F., Cai, Z. (2025) Model-free Change-point Detection using AUC of a Classifier. _Journal of Machine Learning Research_, accepted. {[arXiv](https://arxiv.org/abs/2404.06995)/[Github](https://github.com/rohitkanrar/changeAUC)/[Journal](https://jmlr.org/papers/v26/24-0365.html)}
+- **Kanrar, R.**, Jiang, F., Cai, Z. (2025) Model-free Change-point Detection using AUC of a Classifier, _Journal of Machine Learning Research_. {[arXiv](https://arxiv.org/abs/2404.06995)/[Github](https://github.com/rohitkanrar/changeAUC)/[Journal](https://jmlr.org/papers/v26/24-0365.html)}
 
 ## Acknowledgements:
 I thank my advisors and collaborators for their guidance and unwavering support. I also thank Professor [Kiranmoy Das](https://bimsa.net/people/das/) and Professor [Arindam Chatterjee](https://isi.irins.org/profile/122632) for their guidance during my masters education.
