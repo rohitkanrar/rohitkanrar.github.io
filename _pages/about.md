@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## Brief bio
+## Brief Bio
 Rohit is a Ph.D. candidate in the [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), where he is fortunate to be advised by Professor [Dan Nettleton](https://dnett.github.io/). Rohit is also grateful for the opportunity to be co-advised by Professor [Chunlin Li](https://scholar.google.com/citations?user=8dTpVPkAAAAJ&hl=en) and Professor [Zhanrui Cai](https://zhanruicai.github.io/). 
 
 ## Primary Theme of Rohit's Research
