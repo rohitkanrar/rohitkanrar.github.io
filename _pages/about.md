@@ -10,9 +10,6 @@ redirect_from:
 ## Brief Bio
 Rohit is a Ph.D. candidate in the [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), where he is fortunate to be advised by Professor [Dan Nettleton](https://dnett.github.io/). Rohit is also grateful to his dissertation co-advisors, Professor [Chunlin Li](https://scholar.google.com/citations?user=8dTpVPkAAAAJ&hl=en) and Professor [Zhanrui Cai](https://zhanruicai.github.io/), and thank them for their help and guidance in building the foundation of his future research. 
 
-## Primary Theme of Rohit's Research
-Rohit's research currently focuses on sequential decision making in data-scarce environments, where statistical (online) inference is critical. He is also exploring practical issues embedded in sequential decision makers, such as distribution-shift, stability, fairness, trustworthiness and privacy. The primary goal of his research is to build efficient and robust artificial intelligent (AI) systems, which is capable of making smart decisions with confidence.
-
 ## Research Interests
 * **Theory and Methods**: Online Learning and Inference, Causal Inference, Preference Learning, Predictive Inference.
 * **Application Areas**: Health Communication, Public Health, Clinical Trial, Sports Analytics, Genetics.
