@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**I am on the academic job market, actively applying for positions starting Fall 2026. Please feel free to contact me at rohitk [at] iastate.edu with potential opportunities.**
+**I am on the academic job market, actively applying for positions starting Fall 2026. Please feel free to contact me at rohitk [at] iastate.edu with potential opportunities. Thank you!**
 
 
 ## Brief Bio
