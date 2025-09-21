@@ -33,4 +33,5 @@ Rohit’s research currently focuses on sequential decision making in data-scarc
 * 2015 - 2018 : B.Sc. (Hons.) Statistics, [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/).
 
 School Email: rohitk [at] iastate.edu
+
 Personal Email: rohitkanrar [at] gmail.com
