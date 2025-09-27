@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 ## Overall Theme of Rohit's Research
-Rohit’s research currently focuses on **sequential decision making in high-stak>
+Rohit’s research currently focuses on **sequential decision making in high-stake environments,** such as **public health** and **sports,** where statistical (online) inference is critical. The primary goal of his research is to build **efficient, robust and transparent** artificial intelligent (AI) systems, capable of making well-reasoned decisions with **valid uncertainty quantification.**
 
 
 ## Research Interests
-* **Theory and Methods**: Online Learning and Inference, Causal Inference, Pref>
-* **Application Areas**: Health Communication, Public Health, Clinical Trial, S>
+* **Theory and Methods**: Online Learning and Inference, Causal Inference, Preference Learning, Predictive Inference
+* **Application Areas**: Health Communication, Public Health, Clinical Trial, Sports, Genetics
 
 
 ## Preprints:
