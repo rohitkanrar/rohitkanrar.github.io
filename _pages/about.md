@@ -9,17 +9,13 @@ redirect_from:
 
 **I am on the academic job market, actively applying for positions starting Fall 2026. Please feel free to contact me at rohitk [at] iastate.edu with potential opportunities. Thank you!**
 
+School Email: rohitk [at] iastate.edu
+
+Personal Email: rohitkanrar [at] gmail.com
 
 ## Brief Bio
 Rohit Kanrar is a Ph.D. candidate in the [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), where he is fortunate to be advised by Professor [Dan Nettleton](https://dnett.github.io/). Rohit is also grateful to his dissertation co-advisors, Professor [Chunlin Li](https://statistics.as.virginia.edu/people/chunlin-li) and Professor [Zhanrui Cai](https://zhanruicai.github.io/), and thank them for their help and guidance in building the foundation of his future research. 
 
-## Overall Theme of Rohit's Research
-Rohit’s research currently focuses on sequential decision making in data-scarce environments, where statistical (online) inference is critical. The primary goal of his research is to build efficient, robust and transparent artificial intelligent (AI) systems, which is capable of making smart decisions with confidence.
-
-
-## Research Interests
-* **Theory and Methods**: Online Learning and Inference, Causal Inference, Preference Learning, Predictive Inference.
-* **Application Areas**: Health Communication, Public Health, Clinical Trial, Sports Analytics, Genetics.
 
 ## Experiences
 * 2023 - Present : Research Assistant, Iowa State University, IA, USA.
@@ -27,11 +23,9 @@ Rohit’s research currently focuses on sequential decision making in data-scarc
 * 2021 - 2023 : Teaching Assistant, Iowa State University, IA, USA.
 * 2020 - 2021 : Data Scientist, Decimal Technologies Pvt. Ltd., Gurgaon, Haryana, India.
 
+
 ## Education
 * 2021 - 2026 (Expected) : Ph.D. in Statistics, [Iowa State University](https://www.iastate.edu/).
 * 2018 - 2020 : M.Stat., [Indian Statistical Institute](https://www.isical.ac.in/).
 * 2015 - 2018 : B.Sc. (Hons.) Statistics, [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/).
 
-School Email: rohitk [at] iastate.edu
-
-Personal Email: rohitkanrar [at] gmail.com
