@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-**I am on the academic job market, actively applying for positions starting Fall 2026. Please feel free to contact me at rohitk [at] iastate.edu with potential opportunities. Thank you!**
+**I am on the academic job market, actively applying for positions starting Fall 2026. I would appreciate your help in finding potential opportunities. Thank you!**
 
-School Email: rohitk [at] iastate.edu
-
-Personal Email: rohitkanrar [at] gmail.com
+Email: rohitk [at] iastate.edu
 
 ## Brief Bio
 Rohit Kanrar is a Ph.D. candidate in the [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), where he is fortunate to be co-advised by Professor [Dan Nettleton](https://dnett.github.io/). Rohit is also grateful to his dissertation co-advisors, Professor [Chunlin Li](https://statistics.as.virginia.edu/people/chunlin-li) and Professor [Zhanrui Cai](https://zhanruicai.github.io/), and thank them for their help and guidance in building the foundation of his future research. 
