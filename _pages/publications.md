@@ -10,7 +10,7 @@ Rohit's research currently centers on **sequential decision-making in high-stake
 
 
 ## Research Interests
-* **Theory and Methods**: Online Learning and Inference, Causal Inference, Preference Learning, Predictive Inference
+* **Theory and Methods**: Online Learning and Inference, Experimental Design and Causal Inference, Preference Learning, Predictive Inference
 * **Application Areas**: Health Communication, Public Health, Clinical Trial, Sports, Genetics
 
 
