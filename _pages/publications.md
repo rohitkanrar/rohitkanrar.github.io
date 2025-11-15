@@ -5,14 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Overall Theme of Rohit's Research
-Rohit's research currently centers on **sequential decision-making in high-stakes environments,** where statistical (online) inference is critical, and **valid uncertainty quantification (UQ)** protects automated decision-makers from committing potentially costly errors. The overarching goal of his research is to develop **efficient, stable, robust, fair and trustworthy** artificial intelligent (AI) systems, capable of making well-reasoned decisions with valid UQ.
-
-
 ## Research Interests
 * **Theory and Methods**: Sequential Learning & Inference, Experimental Design & Causal Inference, Preference Learning, Predictive Inference
 * **Application Areas**: Health Communication, Public Health, Clinical Trial, Sports, Genetics
-
 
 ## Preprints:
 
@@ -23,7 +18,6 @@ Rohit's research currently centers on **sequential decision-making in high-stake
 
 - **Kanrar, R.**, Jiang, F., Cai, Z. (2025) Model-free Change-point Detection using AUC of a Classifier. _Journal of Machine Learning Research_ {[arXiv](https://arxiv.org/abs/2404.06995)/[Github](https://github.com/rohitkanrar/changeAUC)/[Journal](https://jmlr.org/papers/v26/24-0365.html)}
 
-## Acknowledgements:
-I thank my advisors and collaborators for their guidance and unwavering support. I also thank Professor [Kiranmoy Das](https://scholar.google.com/citations?user=aUaRCTgAAAAJ&hl=en) and Professor [Arindam Chatterjee](https://isi.irins.org/profile/122632) for their guidance during my masters education.
+
 
 

@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-**I am on the academic job market, actively applying for positions starting Fall 2026. I would appreciate your help in finding potential opportunities. Thank you!**
-
-Email: rohitk [at] iastate [dot] edu
 
 ## Brief Bio
-Rohit Kanrar is a Ph.D. candidate in the [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), where he is fortunate to be co-advised by Professor [Dan Nettleton](https://dnett.github.io/). Rohit is also grateful to his dissertation co-advisors, Professor [Zhanrui Cai](https://zhanruicai.github.io/) and Professor [Chunlin Li](https://statistics.as.virginia.edu/people/chunlin-li), and thank them for their help and guidance in building the foundation of his future research. 
+Rohit Kanrar is a Ph.D. candidate in the [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), where he is fortunate to be co-advised by Professor [Dan Nettleton](https://dnett.github.io/). Rohit is also grateful to his dissertation co-advisors, Professor [Zhanrui Cai](https://zhanruicai.github.io/) and Professor [Chunlin Li](https://statistics.as.virginia.edu/people/chunlin-li), and thank them for their help and guidance in building the foundation of his future research. Statistics is his passion and he truly enjoys learning new concepts in statistics. 
+
+
+Outside of research, he loves to cook, follows sports, and listen to music. He is also a lifelong supporter of [Manchester United](https://www.manutd.com/). History of Man United has taught him important life lessons. He has no plans to stop supporting Man United, even if they will relegated to Championship. 
 
 
 ## Experiences
@@ -27,3 +27,5 @@ Rohit Kanrar is a Ph.D. candidate in the [Department of Statistics](https://www.
 * 2018 - 2020 : M.Stat., [Indian Statistical Institute](https://www.isical.ac.in/).
 * 2015 - 2018 : B.Sc. (Hons.) Statistics, [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/).
 
+
+Email: rohitk [at] iastate [dot] edu
