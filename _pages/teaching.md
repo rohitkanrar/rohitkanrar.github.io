@@ -8,11 +8,11 @@ classes: wide
 
 ## Instructor
 
-  - STAT 226 (Business Statistics); Fall 2022, Spring 2023.
-  - STAT 305 (Engineering Statistics); Summer 2022.
+  - Business statistics; Fall 2022, Spring 2023.
+  - Engineering statistics; Summer 2022.
 
-## Lab Assistant and Grader
+## Lab assistant and grader
 
-  - STAT 101 (Principles of Statistics); Spring 2022.
-  - STAT 231 (Probability and Statistical Inference for Engineers); Fall 2021.
-  - STAT 104 (Introduction to Statistics); Fall 2021.
+  - Principles of statistics; Spring 2022.
+  - Probability and statistical inference for engineers; Fall 2021.
+  - Introduction to statistics; Fall 2021.
