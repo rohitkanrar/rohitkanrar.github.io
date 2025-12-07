@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-*I am on the academic job market for positions starting Fall 2026. Currently, I am planning to graduate by spring or summer of 2026, provided I finish my dissertation projects. To focus on my dissertation, I am not accepting any requests on research from both within and outside of Iowa State. Thank you for your patience!*
+*I am on the academic job market for positions starting in Fall 2026. I expect to graduate by Summer 2026. To focus on my dissertation, I am strictly limiting new research collaborations at this time. Thank you for your understanding!*
 
 ## About me
 Rohit Kanrar is a Ph.D. candidate in the [Department of Statistics](https://www.stat.iastate.edu/) at [Iowa State University](https://www.iastate.edu/), where he is fortunate to be co-advised by Professor [Dan Nettleton](https://dnett.github.io/). Earlier chapters of Rohit's doctoral dissertation were co-advised by Professor [Zhanrui Cai](https://zhanruicai.github.io/) and Professor [Chunlin Li](https://statistics.as.virginia.edu/people/chunlin-li), and Rohit is grateful for their support and guidance. Statistics is Rohit's passion and he truly enjoys learning new concepts in statistics. 
