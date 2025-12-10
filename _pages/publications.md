@@ -4,8 +4,6 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
-## Overall theme of Rohit's research
-Rohit's research currently centers on **sequential decision-making in high-stakes environments,** where statistical (online) inference is critical, and **valid uncertainty quantification (UQ)** protects automated decision-makers from committing potentially costly errors. The overarching goal of his research is to develop **efficient, stable, robust, fair and trustworthy** artificial intelligent (AI) systems, capable of making well-reasoned decisions with valid UQ.
 
 ## Research interests:
 * **Theory and methods**: Sequential learning & inference, experimental design & causal inference, preference learning, predictive inference
