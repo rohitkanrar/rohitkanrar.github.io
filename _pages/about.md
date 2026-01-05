@@ -17,10 +17,10 @@ Outside of research, Rohit loves to cook, follows sports, listen to music and ma
 Email: rohitk [at] iastate [dot] edu
 
 ## Experiences
-* 2023 - Present : Research assistant, Iowa State University, IA, USA.
-* 2024 (Summer) : Statistics intern, Pfizer, Collegeville, PA, USA.
+* 2023 - Present : Research assistant, Department of Statistics, Iowa State University, IA, USA.
+* 2024 (Summer) : Statistics intern, [Pfizer](https://www.pfizer.com/), Collegeville, PA, USA.
 * 2021 - 2023 : Teaching assistant, Iowa State University, IA, USA.
-* 2020 - 2021 : Data scientist, Decimal Technologies Pvt. Ltd., Gurgaon, Haryana, India.
+* 2020 - 2021 : Data scientist, [Decimal Technologies Pvt. Ltd.](https://decimaltech.com/), Gurgaon, Haryana, India.
 
 ## Education
 * 2021 - 2026 (Expected) : Ph.D. in Statistics, [Iowa State University](https://www.iastate.edu/).
