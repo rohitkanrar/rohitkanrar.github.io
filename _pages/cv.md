@@ -24,7 +24,7 @@ redirect_from:
 
 ## Education
 * 2021 - 2026 (Expected) : Ph.D. in Statistics, [Iowa State University](https://www.iastate.edu/).\
-*Co-advisors: Professors [Zhanrui Cai](https://zhanruicai.github.io/), [Chunlin Li](https://statistics.as.virginia.edu/people/chunlin-li) and [Dan Nettleton](https://dnett.github.io/)*
+*Co-advisors: Professors [Zhanrui Cai](https://zhanruicai.github.io/), [Chunlin Li](https://statistics.as.virginia.edu/people/chunlin-li), [Dan Nettleton](https://dnett.github.io/)*
 * 2018 - 2020 : M.Stat., [Indian Statistical Institute](https://www.isical.ac.in/).\
 *Advisor: Professor [Kiranmoy Das](https://scholar.google.com/citations?user=aUaRCTgAAAAJ&hl=en)*
 * 2015 - 2018 : B.Sc. (Honors) Statistics, [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/).
