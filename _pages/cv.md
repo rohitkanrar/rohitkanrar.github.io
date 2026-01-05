@@ -15,7 +15,8 @@ redirect_from:
 # Short CV
 
 ## Experiences
-* 2023 - Present : Research assistant, [Department of Statistics](https://www.stat.iastate.edu/), [Iowa State University]((https://www.iastate.edu/)), IA, USA.\ *Supervisor: [Professor Dan Nettleton](https://dnett.github.io/)*
+* 2023 - Present : Research assistant, [Department of Statistics](https://www.stat.iastate.edu/), [Iowa State University]((https://www.iastate.edu/)), IA, USA.\
+*Supervisor: [Professor Dan Nettleton](https://dnett.github.io/)*
 * 2024 (Summer) : Statistics intern, [Pfizer](https://www.pfizer.com/), Collegeville, PA, USA.\ *Supervisors: [Dr. Zara Ghodsi](https://www.linkedin.com/in/zara-ghodsi-099259110/), [Dr. Margaret Gamalo](https://www.linkedin.com/in/margaret-gamalo-phd-fasa-10a1479a/)*
 * 2021 - 2023 : Teaching assistant, [Department of Statistics](https://www.stat.iastate.edu/), [Iowa State University]((https://www.iastate.edu/)), IA, USA.\ *Supervisor: [Professor Petruta Caragea](https://www.stat.iastate.edu/people/petruta-caragea)*
 * 2020 - 2021 : Data scientist, [Decimal Technologies Pvt. Ltd.](https://decimaltech.com/), Gurgaon, Haryana, India.\ *Supervisors: [Mr. Jitendra Singh](https://www.linkedin.com/in/jitendraiitg/), [Mr. Badal Gupta](https://www.linkedin.com/in/badal-gupta/)*
