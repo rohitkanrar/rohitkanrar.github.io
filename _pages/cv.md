@@ -38,12 +38,12 @@ redirect_from:
 ## References
 
 <div style="display: flex;">
-  <div style="flex: 1; white-space: pre-wrap;">
+  <div style="flex: 1; padding: 10px;">
     <!-- Column 1 Content -->
-    Zhanrui Cai
-    Assistant Professor
-    Faculty of Business and Economics
-    The University of Hong Kong
+    Zhanrui Cai<br>
+    Assistant Professor<br>
+    Faculty of Business and Economics<br>
+    The University of Hong Kong<br>
     zhanruic@hku.hk
   </div>
   <div style="flex: 1; padding: 10px;">
@@ -56,10 +56,10 @@ redirect_from:
   </div>
   <div style="flex: 1; padding: 10px;">
     <!-- Column 3 Content -->
-    - Dan Nettleton
-    - Distinguished Professor and Chair
-    - Department of Statistics
-    - Iowa State University
-    - dnett@iastate.edu
+    Dan Nettleton<br>
+    Distinguished Professor and Chair<br>
+    Department of Statistics<br>
+    Iowa State University<br>
+    dnett@iastate.edu
   </div>
 </div>
