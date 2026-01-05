@@ -48,11 +48,11 @@ redirect_from:
   </div>
   <div style="flex: 1; padding: 10px;">
     <!-- Column 2 Content -->
-    - Chunlin Li
-    - Assistant Professor
-    - Department of Statistics
-    - University of Virginia
-    - gjj2pr@virginia.edu
+    Chunlin Li<br>
+    Assistant Professor<br>
+    Department of Statistics<br>
+    University of Virginia<br>
+    gjj2pr@virginia.edu
   </div>
   <div style="flex: 1; padding: 10px;">
     <!-- Column 3 Content -->
