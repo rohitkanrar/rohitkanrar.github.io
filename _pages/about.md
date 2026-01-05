@@ -14,13 +14,13 @@ Rohit Kanrar is a Ph.D. candidate in the [Department of Statistics](https://www.
 
 Outside of research, Rohit loves to cook, follows sports, listen to music and make new friends outside of workplace. He is a lifelong supporter of [Manchester United](https://www.manutd.com/). The history of Man United has taught him important life lessons. He has no plans to stop supporting Man United, even if they are relegated from the Premier League to the Championship.
 
-Email: rohitk [at] iastate [dot] edu
+**Email: rohitk [at] iastate [dot] edu**
 
 ## Experiences
-* 2023 - Present : Research assistant, Department of Statistics, Iowa State University, IA, USA.
-* 2024 (Summer) : Statistics intern, [Pfizer](https://www.pfizer.com/), Collegeville, PA, USA.
-* 2021 - 2023 : Teaching assistant, Iowa State University, IA, USA.
-* 2020 - 2021 : Data scientist, [Decimal Technologies Pvt. Ltd.](https://decimaltech.com/), Gurgaon, Haryana, India.
+* 2023 - Present : Research assistant, [Department of Statistics](https://www.stat.iastate.edu/), [Iowa State University]((https://www.iastate.edu/)), IA, USA. *Supervisor: [Professor Dan Nettleton](https://dnett.github.io/)*
+* 2024 (Summer) : Statistics intern, [Pfizer](https://www.pfizer.com/), Collegeville, PA, USA. *Supervisors: [Dr. Zara Ghodsi](https://www.linkedin.com/in/zara-ghodsi-099259110/), [Dr. Margaret Gamalo](https://www.linkedin.com/in/margaret-gamalo-phd-fasa-10a1479a/)*
+* 2021 - 2023 : Teaching assistant, [Department of Statistics](https://www.stat.iastate.edu/), [Iowa State University]((https://www.iastate.edu/)), IA, USA. *Supervisor: [Professor Petruta Caragea](https://www.stat.iastate.edu/people/petruta-caragea)*
+* 2020 - 2021 : Data scientist, [Decimal Technologies Pvt. Ltd.](https://decimaltech.com/), Gurgaon, Haryana, India. *Supervisors: [Mr. Jitendra Singh](https://www.linkedin.com/in/jitendraiitg/), [Mr. Badal Gupta](https://www.linkedin.com/in/badal-gupta/)*
 
 ## Education
 * 2021 - 2026 (Expected) : Ph.D. in Statistics, [Iowa State University](https://www.iastate.edu/).
