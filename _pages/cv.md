@@ -33,3 +33,27 @@ redirect_from:
 *Thesis Title: Model Selection for Panel Data with Multivariate Binary Responses*
 * 2015 - 2018 : B.Sc. (Honors) Statistics, [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/).\
 *Final Project Title: Prediction of Peak Career Ratings for Computer-generated Football Players in FIFA Career Mode*
+
+
+## Contact details for references
+
+<div style="display: flex;">
+  <div style="flex: 1; padding: 10px;">
+    <!-- Column 1 Content -->
+    ### Column One
+    - Item A
+    - Item B
+    - Item C
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <!-- Column 2 Content -->
+    ### Column Two
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <!-- Column 3 Content -->
+    ### Column Three
+    - Task 1
+    - Task 2
+  </div>
+</div>
