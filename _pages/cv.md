@@ -32,3 +32,4 @@ redirect_from:
 *Advisor: Professor [Kiranmoy Das](https://scholar.google.com/citations?user=aUaRCTgAAAAJ&hl=en)*\
 *Thesis Title: Model Selection for Panel Data with Multivariate Binary Responses*
 * 2015 - 2018 : B.Sc. (Honors) Statistics, [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/).
+*Final Project Title: Prediction of Peak Career Ratings for Computer-generated Football Players in FIFA Career Mode*
