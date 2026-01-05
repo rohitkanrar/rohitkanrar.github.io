@@ -38,13 +38,13 @@ redirect_from:
 ## References
 
 <div style="display: flex;">
-  <div style="flex: 1; padding: 10px;">
+  <div style="flex: 1; white-space: pre-wrap;">
     <!-- Column 1 Content -->
-    - Zhanrui Cai
-    - Assistant Professor
-    - Faculty of Business and Economics
-    - The University of Hong Kong
-    - zhanruic@hku.hk
+    Zhanrui Cai
+    Assistant Professor
+    Faculty of Business and Economics
+    The University of Hong Kong
+    zhanruic@hku.hk
   </div>
   <div style="flex: 1; padding: 10px;">
     <!-- Column 2 Content -->
