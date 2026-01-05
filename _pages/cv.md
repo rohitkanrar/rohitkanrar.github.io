@@ -35,25 +35,31 @@ redirect_from:
 *Final Project Title: Prediction of Peak Career Ratings for Computer-generated Football Players in FIFA Career Mode*
 
 
-## Contact details for references
+## References
 
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px;">
     <!-- Column 1 Content -->
-    ### Column One
-    - Item A
-    - Item B
-    - Item C
+    Zhanrui Cai,\
+    Assistant Professor,\
+    Faculty of Business and Economics,\
+    The University of Hong Kong\
+    zhanruic@hku.hk
   </div>
   <div style="flex: 1; padding: 10px;">
     <!-- Column 2 Content -->
-    ### Column Two
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    Chunlin Li,\
+    Assistant Professor,\
+    Department of Statistics,\
+    University of Virginia\
+    gjj2pr@virginia.edu
   </div>
   <div style="flex: 1; padding: 10px;">
     <!-- Column 3 Content -->
-    ### Column Three
-    - Task 1
-    - Task 2
+    Dan Nettleton,\
+    Distinguished Professor and Chair,\
+    Department of Statistics,\
+    Iowa State University\
+    dnett@iastate.edu
   </div>
 </div>
