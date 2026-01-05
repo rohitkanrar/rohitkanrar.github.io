@@ -10,5 +10,17 @@ redirect_from:
 {% include base_path %}
 
 
-Full CV is available upon request. Please send me an email at rohitk [at] iastate.edu. 
+*Full CV is available upon request. Please send me an email at rohitk [at] iastate [dot] edu.* 
 
+# Short CV
+
+## Experiences
+* 2023 - Present : Research assistant, [Department of Statistics](https://www.stat.iastate.edu/), [Iowa State University]((https://www.iastate.edu/)), IA, USA. *Supervisor: [Professor Dan Nettleton](https://dnett.github.io/)*
+* 2024 (Summer) : Statistics intern, [Pfizer](https://www.pfizer.com/), Collegeville, PA, USA. *Supervisors: [Dr. Zara Ghodsi](https://www.linkedin.com/in/zara-ghodsi-099259110/), [Dr. Margaret Gamalo](https://www.linkedin.com/in/margaret-gamalo-phd-fasa-10a1479a/)*
+* 2021 - 2023 : Teaching assistant, [Department of Statistics](https://www.stat.iastate.edu/), [Iowa State University]((https://www.iastate.edu/)), IA, USA. *Supervisor: [Professor Petruta Caragea](https://www.stat.iastate.edu/people/petruta-caragea)*
+* 2020 - 2021 : Data scientist, [Decimal Technologies Pvt. Ltd.](https://decimaltech.com/), Gurgaon, Haryana, India. *Supervisors: [Mr. Jitendra Singh](https://www.linkedin.com/in/jitendraiitg/), [Mr. Badal Gupta](https://www.linkedin.com/in/badal-gupta/)*
+
+## Education
+* 2021 - 2026 (Expected) : Ph.D. in Statistics, [Iowa State University](https://www.iastate.edu/).
+* 2018 - 2020 : M.Stat., [Indian Statistical Institute](https://www.isical.ac.in/).
+* 2015 - 2018 : B.Sc. (Honors) Statistics, [Ramakrishna Mission Residential College (Autonomous), Narendrapur](https://rkmrc.in/).
