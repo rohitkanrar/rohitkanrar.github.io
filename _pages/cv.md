@@ -40,26 +40,26 @@ redirect_from:
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px;">
     <!-- Column 1 Content -->
-    Zhanrui Cai,\
-    Assistant Professor,\
-    Faculty of Business and Economics,\
-    The University of Hong Kong\
-    zhanruic@hku.hk
+    - Zhanrui Cai
+    - Assistant Professor
+    - Faculty of Business and Economics
+    - The University of Hong Kong
+    - zhanruic@hku.hk
   </div>
   <div style="flex: 1; padding: 10px;">
     <!-- Column 2 Content -->
-    Chunlin Li,\
-    Assistant Professor,\
-    Department of Statistics,\
-    University of Virginia\
-    gjj2pr@virginia.edu
+    - Chunlin Li
+    - Assistant Professor
+    - Department of Statistics
+    - University of Virginia
+    - gjj2pr@virginia.edu
   </div>
   <div style="flex: 1; padding: 10px;">
     <!-- Column 3 Content -->
-    Dan Nettleton,\
-    Distinguished Professor and Chair,\
-    Department of Statistics,\
-    Iowa State University\
-    dnett@iastate.edu
+    - Dan Nettleton
+    - Distinguished Professor and Chair
+    - Department of Statistics
+    - Iowa State University
+    - dnett@iastate.edu
   </div>
 </div>
