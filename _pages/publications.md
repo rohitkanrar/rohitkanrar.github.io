@@ -11,7 +11,7 @@ Rohit's research currently centers on **sequential decision-making in high-stake
 ## Publications:
 
 - **Kanrar, R.**, Jiang, F., Cai, Z. (2025) Model-free Change-point Detection using AUC of a Classifier. _Journal of Machine Learning Research_ {[arXiv](https://arxiv.org/abs/2404.06995)/[Github](https://github.com/rohitkanrar/changeAUC)/[Journal](https://jmlr.org/papers/v26/24-0365.html)}
-- King, A., Liao, Y., Chen, T., **Kanrar, R.**, Chunara, R., Margolin, D., Nettleton, D., Niederdeppe, J. (2024+) Testing the effects of segmented crowdsource-selected messages to improve intentions to follow colorectal cancer screening recommendations: Study protocol for a randomized controlled trial. _BMC Public Health (just accepted)_
+- King, A., Liao, Y., Chen, T., **Kanrar, R.**, Chunara, R., Margolin, D., Nettleton, D., Niederdeppe, J. (2026) Testing the effects of segmented crowdsource-selected messages to improve intentions to follow colorectal cancer screening recommendations: Study protocol for a randomized controlled trial. _BMC Public Health (just accepted)_
 
 ## Preprint:
 
