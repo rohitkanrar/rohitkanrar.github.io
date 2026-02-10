@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-*I am on the academic job market for positions starting in Fall 2026. I expect to graduate by Summer 2026. To focus on my dissertation, I am strictly limiting new research collaborations at this time. Thank you for your understanding!*
+*I am on the academic job market for positions starting in Fall 2026. I expect to graduate by Summer 2026. I would appreciate your help in finding potential opportunities. Thank you!*
 
 *Email: rohitk [at] iastate [dot] edu*
 
