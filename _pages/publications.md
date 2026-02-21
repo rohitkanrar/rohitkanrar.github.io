@@ -15,7 +15,7 @@ Rohit's research currently centers on **sequential decision-making in high-stake
 
 ## Preprint:
 
-- **Kanrar, R.**, Li, C., Ghodsi, Z., Gamalo, M. (2025+). Risk-inclusive Contextual Bandits for Early Phase Clinical Trials. _Under revision (Round 2)_ {[arXiv](https://arxiv.org/abs/2507.22344)/[Github](https://github.com/rohitkanrar/RiTS)/[Poster](https://iowastate-my.sharepoint.com/:b:/g/personal/rohitk_iastate_edu/EZBr4_9jXR1PoLd2PtOeAA8BrhSKvwXO4qon0vNwcJyQrQ?e=FmqlG6)}
+- **Kanrar, R.**, Li, C., Ghodsi, Z., Gamalo, M. (2025+). Risk-inclusive Contextual Bandits for Early Phase Clinical Trials. _Revision submitted (Round 2)_ {[arXiv](https://arxiv.org/abs/2507.22344)/[Github](https://github.com/rohitkanrar/RiTS)/[Poster](https://iowastate-my.sharepoint.com/:b:/g/personal/rohitk_iastate_edu/EZBr4_9jXR1PoLd2PtOeAA8BrhSKvwXO4qon0vNwcJyQrQ?e=FmqlG6)}
 
 
 
