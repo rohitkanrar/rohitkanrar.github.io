@@ -48,6 +48,14 @@ redirect_from:
   </div>
   <div style="flex: 1; padding: 10px;">
     <!-- Column 2 Content -->
+    Margaret Gamalo<br>
+    Vice President, Statistics Head<br>
+    Inflammation, Immunology, Specialty Care<br>
+    Pfizer<br>
+    margaret.gamalo@pfizer.com
+  </div>
+  <div style="flex: 1; padding: 10px;">
+    <!-- Column 3 Content -->
     Chunlin Li<br>
     Assistant Professor<br>
     Department of Statistics<br>
@@ -55,7 +63,7 @@ redirect_from:
     gjj2pr@virginia.edu
   </div>
   <div style="flex: 1; padding: 10px;">
-    <!-- Column 3 Content -->
+    <!-- Column 4 Content -->
     Dan Nettleton<br>
     Distinguished Professor and Chair<br>
     Department of Statistics<br>
