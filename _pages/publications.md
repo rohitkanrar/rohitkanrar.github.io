@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Overall theme of Rohit's research
-Rohit's research currently centers on **sequential decision-making in high-stakes environments,** where statistical (online) inference is critical, and **valid uncertainty quantification (UQ)** protects automated decision-makers from committing potentially costly errors. The overarching goal of his research is to develop **efficient, stable, robust, fair and trustworthy** artificial intelligent (AI) systems, capable of making well-reasoned decisions with valid UQ.
 
 ## Publications:
 
@@ -15,7 +13,11 @@ Rohit's research currently centers on **sequential decision-making in high-stake
 
 ## Preprint:
 
-- **Kanrar, R.**, Li, C., Ghodsi, Z., Gamalo, M. (2025+). Risk-inclusive Contextual Bandits for Early Phase Clinical Trials. _Revision submitted (Round 2)_ {[arXiv](https://arxiv.org/abs/2507.22344)/[Github](https://github.com/rohitkanrar/RiTS)/[Poster](https://iowastate-my.sharepoint.com/:b:/g/personal/rohitk_iastate_edu/EZBr4_9jXR1PoLd2PtOeAA8BrhSKvwXO4qon0vNwcJyQrQ?e=FmqlG6)}
+- **Kanrar, R.**, Li, C., Ghodsi, Z., Gamalo, M. (2025+) Risk-inclusive Contextual Bandits for Early Phase Clinical Trials. _Revision submitted (Round 2)_ {[arXiv](https://arxiv.org/abs/2507.22344)/[Github](https://github.com/rohitkanrar/RiTS)/[Poster](https://iowastate-my.sharepoint.com/:b:/g/personal/rohitk_iastate_edu/EZBr4_9jXR1PoLd2PtOeAA8BrhSKvwXO4qon0vNwcJyQrQ?e=FmqlG6)}
 
+## Working Papers:
 
-
+- **Kanrar, R.**, Chen, T., Jiang, M., Nettleton, D., King, A., Niederdeppe, J. (2026+) Bayesian Mixed Preference Learning with an Application to Ranking Messages in a Crowd-sourced Wiki-survey.
+- **Kanrar, R.**, Nettleton, D. (2026+) Online Inference and Selection of Subject-specific and Item-specific Covariates for Item Preference Ranking.
+- **Kanrar, R.**, Swayne, Z., Nettleton, D. (2026+) Bayesian Semi-parametric Inference for Predicting Time Between Fouls for WNBA Players.
+- Kim, K., Chen, G., **Kanrar, R.**, Yang, T., Li, C. (2026+) Learning Plausible Causal Effects using Black-box Models with Confidence.
