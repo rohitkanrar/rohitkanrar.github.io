@@ -15,9 +15,3 @@ author_profile: true
 
 - **Kanrar, R.**, Li, C., Ghodsi, Z., Gamalo, M. (2025+) Risk-inclusive Contextual Bandits for Early Phase Clinical Trials. _Under revision_ {[arXiv](https://arxiv.org/abs/2507.22344)/[Github](https://github.com/rohitkanrar/RiTS)/[Poster](https://iowastate-my.sharepoint.com/:b:/g/personal/rohitk_iastate_edu/EZBr4_9jXR1PoLd2PtOeAA8BrhSKvwXO4qon0vNwcJyQrQ?e=FmqlG6)}
 
-## Working Papers:
-
-- Chen, T., **Kanrar, R.**, Jiang, M., Nettleton, D., King, A., Niederdeppe, J. (2026+) Bayesian Mixed Preference Learning with an Application to Ranking Messages in a Crowd-sourced Wiki-survey.
-- **Kanrar, R.**, Nettleton, D. (2026+) Variational Bayes Inference and Group Variable Selection for Item Preference Ranking with Subject-Specific and Item-Specific Covariates.
-- **Kanrar, R.**, Swayne, Z., Nettleton, D. (2026+) Bayesian Semi-parametric Inference for Predicting Time Between Fouls for WNBA Players.
-- Kim, K., Chen, G., **Kanrar, R.**, Yang, T., Li, C. (2026+) Learning Plausible Causal Effects using Black-box Models with Confidence.
